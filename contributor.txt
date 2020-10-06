@@ -1,0 +1,6 @@
+I am Akanksha.I really liked your design just as a contributor (which I am specially doing to learn how to contribute in open source projects) I would like to suggest few points which you can improve in your project:
+1.Firstly,it's a good practice to maintain  seperate html and css files.Though it's totally understandable as your code was not too lengthy you preffered using INTERNAL CSS but for big codes it  would be problematic .So,you can get habituated to this habit in small codes itself.
+2.Secondly.I would say as it's totally a login form desgin you should give more focus on input fields design as they are  main part to be concerned of in login page.So just you can highlight those areas by your design.
+3.The forgot password text must be in anchor tag as it's gonna guide you to some other page so you can change there just.And also start it with capital letter .
+4.At submit button you must set your cursor:pointer so that if anyone hover over it they can understand what they need to do.
+5.Rest all design of yours are awesome.Hope you would consider my reviews!!
